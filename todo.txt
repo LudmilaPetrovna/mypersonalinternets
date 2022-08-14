@@ -1,0 +1,48 @@
+todo:
+add name/email fields in form
+advert rotation
+
+issues:
+link (de)duplication
++recursive links to our service
++unicode strings in posts
+.resolve other url shorteners
+what to do with broken links???
+adf.ly using scripts instead of redirect
+
+
+comments:
+хороший эфир, но пока это больше похоже
+на тяпляп минимал вельюбл продакт, а для
+ентерпрайза надо АРХИТЕКУРУ, шоб шаблоны
+отдельно, обработчики входящих запросов
+отдельно, бизнес-логика тоже отдельно,
+а общается оно всё друг с другом через
+передачу между слоями ДАТА ТРАНСФЕР ОБЖЕКТОВ;
+и, конечно же, покрытие тестами обязательно! 
+
+
+String	ACTION_HARMFUL_APPS_FOUND	An action that is broadcasted when harmful apps are discovered.
+String	ACTION_HARMFUL_APP_BLOCKED	An action that is broadcasted when a harmful app is blocked from installation.
+String	ACTION_HARMFUL_APP_INSTALLED	An action that is broadcasted when a harmful app is installed.
+int	HARMFUL_CATEGORY_BACKDOOR	The APK potentially contains a backdoor.
+int	HARMFUL_CATEGORY_CALL_FRAUD	The APK potentially contains call fraud.
+int	HARMFUL_CATEGORY_DATA_COLLECTION	The APK potentially contains data collection capabilities.
+int	HARMFUL_CATEGORY_DENIAL_OF_SERVICE	The APK potentially contains denial of service logic.
+int	HARMFUL_CATEGORY_FRAUDWARE	The APK is potentially fraudware.
+int	HARMFUL_CATEGORY_GENERIC_MALWARE	The APK is potentially malware.
+int	HARMFUL_CATEGORY_HARMFUL_SITE	The APK potentially contains harmful sites.
+int	HARMFUL_CATEGORY_HOSTILE_DOWNLOADER	The APK is potentially a hostile downloader.
+int	HARMFUL_CATEGORY_NON_ANDROID_THREAT	The APK potentially contains threats to non-Android systems.
+int	HARMFUL_CATEGORY_PHISHING	The APK potentially contains phishing.
+int	HARMFUL_CATEGORY_PRIVILEGE_ESCALATION	The APK potentially contains privilege escalation capabilities.
+int	HARMFUL_CATEGORY_RANSOMWARE	The APK is potentially ransomware.
+int	HARMFUL_CATEGORY_ROOTING	The APK potentially contains rooting capabilities.
+int	HARMFUL_CATEGORY_SPAM	The APK potentially contains spam.
+int	HARMFUL_CATEGORY_SPYWARE	The APK is potentially spyware.
+int	HARMFUL_CATEGORY_TOLL_FRAUD	The APK potentially contains toll fraud.
+int	HARMFUL_CATEGORY_TRACKING	The APK potentially contains tracking logic.
+int	HARMFUL_CATEGORY_TROJAN	The APK potentially contains a trojan.
+int	HARMFUL_CATEGORY_UNCOMMON	The APK is uncommon.
+int	HARMFUL_CATEGORY_WAP_FRAUD	The APK potentially contains WAP fraud.
+int	HARMFUL_CATEGORY_WINDOWS_MALWARE	The APK potentially contains windows malware.
