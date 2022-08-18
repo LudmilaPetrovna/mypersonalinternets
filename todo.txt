@@ -6,9 +6,16 @@ issues:
 link (de)duplication
 +recursive links to our service
 +unicode strings in posts
-.resolve other url shorteners
-what to do with broken links???
-adf.ly using scripts instead of redirect
++resolve other url shorteners
++remove utm_* parts in links
++add title to widget
+show floating PreviewImage
+valid url by RFC (request by eepsuoek9)
++site-based transformations (\S+.aliexpress.\S+ -> www.aliexpress.com)
++remove all tracking (not used) parts in url
++what to do with broken links??? (status!=200)
++adf.ly using scripts instead of redirect
+think aboud adf.ly detection
 
 
 comments:
@@ -46,3 +53,4 @@ int	HARMFUL_CATEGORY_TROJAN	The APK potentially contains a trojan.
 int	HARMFUL_CATEGORY_UNCOMMON	The APK is uncommon.
 int	HARMFUL_CATEGORY_WAP_FRAUD	The APK potentially contains WAP fraud.
 int	HARMFUL_CATEGORY_WINDOWS_MALWARE	The APK potentially contains windows malware.
+WSDL, Corba 

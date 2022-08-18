@@ -1,4 +1,4 @@
-package main
+package advert
 
 type someshit struct {
 	a int
